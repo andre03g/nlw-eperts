@@ -1,4 +1,4 @@
-# nlw-eperts
+# nlw-expert
 #tecnologias utilizada
 
 
