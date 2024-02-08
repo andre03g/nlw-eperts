@@ -1,91 +1,91 @@
 const perguntas = [
     {
-      pergunta: "O que é JavaScript?",
+      pergunta: "Quem foi o líder da Alemanha durante a Segunda Guerra Mundial?",
       respostas: [
-        "Uma linguagem de programação para estilização de páginas web",
-        "Uma linguagem de programação para desenvolvimento de aplicativos móveis",
-        "Uma linguagem de programação para tornar páginas web dinâmicas",
+        "a) Winston Churchill",
+        "b) Joseph Stalin",
+        "c) Adolf Hitler",
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é a sintaxe correta para declarar uma variável em JavaScript?",
+      pergunta: "Qual evento marcou o início da Segunda Guerra Mundial na Europa?",
       respostas: [
-        "var myVar = 5;",
-        "variável myVar = 5;",
-        "let myVar = 5;",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é o resultado da expressão '3' + 2 em JavaScript?",
-      respostas: [
-        "5",
-        "32",
-        "6",
+        "a) Ataque japonês a Pearl Harbor",
+        "b) Invasão da Polônia pela Alemanha",
+        "c) Bombardeio de Londres",
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a função do operador '===' em JavaScript?",
+      pergunta: "Qual país foi o primeiro a usar bombas nucleares durante a Segunda Guerra Mundial?",
       respostas: [
-        "Comparação estrita (valor e tipo)",
-        "Atribuição",
-        "Comparação solta (apenas valor)",
+        "a) Alemanha",
+        "b) União Soviética",
+        "c) Estados Unidos",
       ],
-      correta: 0
+      correta: 2
     },
     {
-      pergunta: "O que é uma função de callback em JavaScript?",
+      pergunta: "Qual foi a estratégia de invasão alemã conhecida como 'guerra relâmpago'?",
       respostas: [
-        "Uma função que é chamada no início do código",
-        "Uma função que é passada como argumento para outra função e executada posteriormente",
-        "Uma função que retorna outro valor além de undefined",
+        "a) Guerra Total",
+        "b) Blitzkrieg",
+        "c) Operação Barbarossa",
       ],
       correta: 1
     },
     {
-      pergunta: "Qual é a maneira correta de selecionar um elemento HTML com o id 'myElement' em JavaScript?",
+      pergunta: "Qual foi a data do Dia D?",
       respostas: [
-        "document.getElementByClass('myElement')",
-        "document.getElement('myElement')",
-        "document.getElementById('myElement')",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "O que é o DOM em JavaScript?",
-      respostas: [
-        "Document Order Model - Modelo de ordem de documento",
-        "Data Object Model - Modelo de objeto de dados",
-        "Document Object Model - Modelo de objeto de documento",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a forma correta de escrever um comentário de linha única em JavaScript?",
-      respostas: [
-        "// Este é um comentário de linha única",
-        "/* Este é um comentário de linha única */",
-        "# Este é um comentário de linha única",
+        "a) 6 de junho de 1944",
+        "b) 7 de dezembro de 1941",
+        "c) 1º de setembro de 1939",
       ],
       correta: 0
     },
     {
-      pergunta: "Como se chama o método que é chamado automaticamente quando um objeto é criado em JavaScript?",
+      pergunta: "Quem era o líder dos Estados Unidos durante a maior parte da Segunda Guerra Mundial?",
       respostas: [
-        "start()",
-        "create()",
-        "constructor()",
+        "a) Franklin D. Roosevelt",
+        "b) Harry S. Truman",
+        "c) Dwight D. Eisenhower",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "Qual foi o último país a se render, efetivamente encerrando a Segunda Guerra Mundial?",
+      respostas: [
+        "a) Alemanha",
+        "b) Itália",
+        "c) Japão",
       ],
       correta: 2
     },
     {
-      pergunta: "O que é o conceito de escopo em JavaScript?",
+      pergunta: "Qual batalha foi um ponto de virada na Frente Oriental, onde os soviéticos infligiram uma derrota decisiva aos alemães?",
       respostas: [
-        "O número total de linhas de código em um arquivo JavaScript",
-        "A área de código onde uma variável pode ser acessada",
-        "O tempo de execução de um programa JavaScript",
+        "a) Batalha de Stalingrado",
+        "b) Batalha de Midway",
+        "c) Batalha do Atlântico",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "Qual país não foi invadido pela Alemanha durante a Segunda Guerra Mundial?",
+      respostas: [
+        "a) França",
+        "b) Reino Unido",
+        "c) Suíça",
+      ],
+      correta: 2
+    },
+    {
+      pergunta: "O que foi o Holocausto?",
+      respostas: [
+        "a) Uma aliança militar entre Alemanha e Japão",
+        "b) O genocídio de seis milhões de judeus",
+        "c) Uma batalha decisiva entre EUA e Japão",
       ],
       correta: 1
     },
